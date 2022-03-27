@@ -5,9 +5,10 @@
 #MikirMakeOtakGblk
 #KontolKaloMauReedit/Recode 
 #Pm Gua Bangsat
-clear
+
 
 cd module
+clear
 sh a.sh
 
 blue='\033[34;1m'
