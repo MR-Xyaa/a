@@ -35,4 +35,4 @@ umur3=umur_kamu+option3
 print("Sisa Umur :",umur3)
 
 else:
-print"(Pilih Yang Bener Anjing!")
+print("Pilih Yang Bener Anjing!")
