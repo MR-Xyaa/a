@@ -6,7 +6,43 @@ clear
 figlet "MR-Xyaa" | lolcat
 pkg update && pkg upgrade
 
-echo""
+pkg install python python2 python3
+
+pip install requests mechanize
+
+pip2 install requests mechanize
+
+pkg install git
+
+pkg install ruby
+
+pkg install curl
+
+gem install lolcat
+
+pip2 install php
+
+pkg install figlet
+
+pkg install wget
+
+pkg install nano
+
+pkg install bash
+
+pkg install cowsay
+
+apt update && apt upgrade -y
+
+pkg install bash
+
+pkg install pv -y
+
+pkg install wget -y
+
+pkg install git -y
+
+echo"Selesai"
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
