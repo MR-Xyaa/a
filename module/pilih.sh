@@ -14,6 +14,17 @@ sleep 1
 echo $red
 echo ""
 
+
+toilet -f big -F gay ToolsV1 | lolcat
+echo $yellow"[◇]=============================================[◇]"
+echo $green      "[•] Author__: MR-Xyaa"                         
+echo $red        "[•] FB______: Xyaa Xyaa"                         
+echo $purple     "[•] GitHub__: github.com/MR-Xyaa"              
+echo $yellow"[◇]=============================================[◇]"
+
+
+
+
 echo $cyan"[===============================================[>"
 echo $green "1.> Install Bahan By MR-Xyaa"
 echo $cyan"[===============================================[>"
