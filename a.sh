@@ -49,7 +49,7 @@ fi
 
 
 else:
-print"(Pilih Yang Bener Kontol!")
+print("Pilih Yang Bener Kontol!")
 
 
 
