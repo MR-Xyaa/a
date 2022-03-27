@@ -7,7 +7,7 @@
 #Pm Gua Bangsat
 clear
 
-
+cd module
 
 blue='\033[34;1m'
 green='\033[32;1m'  
