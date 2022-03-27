@@ -22,9 +22,7 @@ mengetik('  6.> Pribadi By MR-Xyaa')
 mengetik('[===============================================[>')
 mengetik('  00.> EXIT MY PROGRAM')
 mengetik('[+]===============================================[+]')
-mengetik('Silakan Pilih')
+mengetik('Silakan Pilih Menunya Bang')
 
 
-from optparse import Option
-else:
-print("Pilih Yang Bener Kontol!")
+
