@@ -8,5 +8,6 @@ print("1.Lanjut")
 print("2.Keluar")
 option=int(input("Lanju Apa Keluar : "))
 
-if system == 1:
-print("lanjut")
+def clearscreen():
+if sys.platform == 1:
+Print("lanjut")
