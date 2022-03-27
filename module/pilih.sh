@@ -139,16 +139,16 @@ fi
 f [ $bro = 0 ] || [ $bro = 00 ]
 then
 echo "\033[32;1mMR-Xyaa"
-sleep 1
+sleep 5
 echo "\033[33;1mEXIT..."
 sleep 1
 echo "Hacking Is Not Criminal;)"
 sleep 1
 echo "Ketika Sebuah Hayalan Tidak tercapai"
 sleep 1
-echo "Maka Terus lah BerJuang Dan Berusaha:)"
+echo "Maka Terus lah BerJuang Dan Berusaha"
 sleep 1
-echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
+echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya"
 sleep 1
 exit
 fi
