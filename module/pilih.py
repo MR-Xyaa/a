@@ -7,6 +7,9 @@ def mengetik(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 
+
+mengetik('[+]====================[ MENU ]====================[+]')
+mengetik(' ')
 mengetik('[===============================================[>')
 mengetik('  1.> Install Bahan By MR-Xyaa')
 mengetik('[===============================================[>')
@@ -21,8 +24,10 @@ mengetik('[===============================================[>')
 mengetik('  6.> Pribadi By MR-Xyaa')
 mengetik('[===============================================[>')
 mengetik('  00.> EXIT MY PROGRAM')
-mengetik('[+]===============================================[+]')
-mengetik('Silakan Pilih Menunya Bang')
+mengetik('[===============================================[>')
+mengetik(' ')
+mengetik('[+]====================[ MENU ]====================[+]')
+mengetik('Dipilih MENU Gw Bang')
 
 
 
