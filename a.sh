@@ -29,9 +29,9 @@ echo "\033[33;1mKontak Me :  083138613993"
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo ""
 echo $cyan"[===============================================[>"
-echo $green "1.> Lanjut"
+echo $green "1.> Lanjut Ke MENU"
 echo $purple"[===============================================]>"
-echo $red "2.>Exit"
+echo $red "2.> Exit MENU"
 echo $cyan"[===============================================]>"
 
 read -p "root@MR-Xyaa~#" bro
