@@ -128,3 +128,12 @@ git pull
 python terkey.py
 fi
 
+if [ $bro = 8 ] || [ $bro = 8 ]
+then
+clear
+figlet "MR-Xyaa" | lolcat
+git clone https://github.com/MR-Xyaa/spamcall
+cd spamcall
+git pull
+sh spam-call.sh
+fi
