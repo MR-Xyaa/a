@@ -15,5 +15,5 @@ input=3
 print("IBNU UMAR SYAID")
 
 os.system('clear')
-	restart()
+
 
