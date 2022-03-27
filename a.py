@@ -7,7 +7,8 @@
 #Pm Gua Bangsat
 clear
 
-python2 please.py
+
+
 blue='\033[34;1m'
 green='\033[32;1m'  
 purple='\033[35;1m'
