@@ -6,7 +6,7 @@ print("2.Kurangi Umur?")
 print("3.Menambah Umur?")
 option=int(input("Pilih Pertanyaan : "))
 
-     def option==1 :
+     def Option==1 :
          print("Sisa Umur Anda 3600 Hari Lagi")
 elif option==2 :
          print("Sisa Umur Anda 3.600 Hari Lagi Mau Dikurang Berapa?")
