@@ -140,11 +140,7 @@ f [ $bro = 0 ] || [ $bro = 00 ]
 then
 echo "\033[32;1mMR-Xyaa"
 sleep 1
-echo "\033[33;1mWe Security"
-sleep 1
-echo " We Not Friends"
-sleep 1
-echo "We Are Family"
+echo "\033[33;1mEXIT..."
 sleep 1
 echo "Hacking Is Not Criminal;)"
 sleep 1
