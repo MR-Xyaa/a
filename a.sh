@@ -40,5 +40,5 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 figlet "MR-Xyaa" | lolcat
-php tp.php
+python2 kode.py
 fi
