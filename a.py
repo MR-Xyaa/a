@@ -6,7 +6,7 @@ print("×Tekan Enter Untuk Lanjut")
 print("×Atau")
 print("×CTRL+C Untuk Keluar")
 option=int(input("pilih="))
-
+os.system('python2 a.py)
 os.system('clear')
 import os, sys
 print ("\033[1;32mMasukan UserName&Password Dulu Ya:)")
