@@ -1,3 +1,4 @@
+import os, sys
 from optparse import Option
 print("Selamat Datang Di Dukun Online")
 print("Pilih Pertanyaan :")
@@ -12,3 +13,7 @@ input=2
 print("17 TAHUN")
 input=3
 print("IBNU UMAR SYAID")
+
+os.system('clear')
+	restart()
+
