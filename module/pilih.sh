@@ -138,7 +138,6 @@ fi
 
 if [ $bro = 00 ] || [ $bro = 00 ]
 then
-sleep 1
 echo "\033[32;1mMR-Xyaa"
 echo "\033[33;1mWe Security"
 echo " We Not Friends"
