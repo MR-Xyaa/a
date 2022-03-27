@@ -35,7 +35,7 @@ def animate():
     for c in itertools.cycle(['|', '/', '-', '\\']):
         if done:
             break
-        sys.stdout.write('\rMenginstall Tools MR-Xyaa... ' + c)
+        sys.stdout.write('\rMenginstall Profil MR-Xyaa... ' + c)
         sys.stdout.flush()
         time.sleep(0.1)
     sys.stdout.write('\rDone!     ')
@@ -61,7 +61,7 @@ def animate():
     for c in itertools.cycle(['|', '/', '-', '\\']):
         if done:
             break
-        sys.stdout.write('\rMenginstall Tools MR-Xyaa... ' + c)
+        sys.stdout.write('\rMenginstall MENU MR-Xyaa... ' + c)
         sys.stdout.flush()
         time.sleep(0.1)
     sys.stdout.write('\rDone!     ')
