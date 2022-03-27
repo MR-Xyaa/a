@@ -36,7 +36,8 @@ echo $cyan"[===============================================[>"
 echo $purple "6.> Pribadi By MR-Xyaa"
 echo $cyan"[===============================================[>"
 echo $red "00.> EXIT MY PROGRAM
-read -p "root@MR-Xyaa:~#" bro
+echo $cyan"[===============================================[>"
+read -p "root@MR-Xyaa~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
