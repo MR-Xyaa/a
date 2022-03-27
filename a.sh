@@ -1,4 +1,4 @@
-#!/system/xbin/bash/sh
+#!/system/xbin/bash/sh/python
 #MauNgapainGblk?
 #DiRecodeGakBakalJadiinLuMastah
 #DiGantiAuthorGakBakalJadiinLuMaster
@@ -48,7 +48,8 @@ fi
 
 
 
-
+else:
+print"(Pilih Yang Bener Kontol!")
 
 
 
