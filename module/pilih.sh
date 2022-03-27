@@ -142,7 +142,7 @@ echo "\033[32;1mMR-Xyaa"
 sleep 5
 echo "\033[33;1mEXIT..."
 sleep 1
-echo "Hacking Is Not Criminal;)"
+echo "Hacking Is Not Criminal"
 sleep 1
 echo "Ketika Sebuah Hayalan Tidak tercapai"
 sleep 1
