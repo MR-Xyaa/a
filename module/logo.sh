@@ -13,11 +13,11 @@ yellow='\033[33;1m'
 
 
 toilet -f big -F gay ToolsV1 | lolcat
-echo $yellow"[◇]=============================================[◇]"
-echo $green      "[•] Author__: MR-Xyaa"                         
-echo $red        "[•] FB______: Xyaa Xyaa"                         
-echo $purple     "[•] GitHub__: github.com/MR-Xyaa"              
-echo $yellow"[◇]=============================================[◇]"
+echo "\033[34;1m[◇]===========================================[◇]"
+echo "\033[34;1m  []    \033[32;1m        [ꪜ]\033[36;1mAuthor__: MR-Xyaa                        \033[34;1m                  []"
+echo "\033[34;1m  []    \033[32;1m        [ꪜ]\033[36;1mFB______: Xyaa Xyaa                      \033[34;1m                []"
+echo "\033[34;1m  []    \033[32;1m        [ꪜ]\033[36;1mGitHub__: github.com/MR-Xyaa   \033[34;1m                []"
+echo "\033[34;1m[◇]===========================================[◇]"
 echo""
 echo""
 
