@@ -7,8 +7,8 @@ print("×Atau")
 print("×CTRL+C Untuk Keluar")
 option=int(input("pilih="))
 
-
-
+os.system('clear')
+import os, sys
 print ("\033[1;32mMasukan UserName&Password Dulu Ya:)")
 print ("\033[1;31;1mKalo Gak Tau Kunjungi Github MR-Xyaa")
 print ("\033[1;32mhttps://github.com/MR-Xyaa")
