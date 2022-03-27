@@ -42,14 +42,34 @@ clear
 figlet "MR-Xyaa" | lolcat
 python2 code.py
 fi
+sleep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 echo "\033[32;1mMR-Xyaa"
-sleep 1
+sleep 5
+echo "exit"
+sleep 2
 echo "\033[33;1mWe Security"
 sleep 1
-echo " We Not Friends"
+echo "We Not Friends"
 sleep 1
 echo "We Are Family"
 sleep 1
