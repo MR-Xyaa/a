@@ -13,11 +13,13 @@ print("1.  Kurangi 600 Hari")
 print("2.  Kurangi 1.000 Hari")
 umur_kamu=3.600
 option2=int=(input("Umur :")
-if option2==1 :
+
+
+if option2==1:
 umur1=umur_kamu-600
 print("Sisa Umur Kamu Adalah :",umur1)
 
-elif option2==2 :
+elif option2==2:
 umur2=umur_kamu-1.000
 print("Sisa Umur Kamu Adalah :",umur2)
 
