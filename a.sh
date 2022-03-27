@@ -48,9 +48,6 @@ fi
 
 
 
-else:
-print("Pilih Yang Bener Kontol!")
-
 
 
 
