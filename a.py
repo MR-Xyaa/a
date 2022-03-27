@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from optparse import option
 print("Selamat Datang Di Dukun Online")
 print("Pilih Pertanyaan :")
