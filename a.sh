@@ -1,4 +1,4 @@
-#!/system/xbin/bash
+#!/system/xbin/bash/sh
 #MauNgapainGblk?
 #DiRecodeGakBakalJadiinLuMastah
 #DiGantiAuthorGakBakalJadiinLuMaster
@@ -41,9 +41,11 @@ then
 clear
 figlet "MR-Xyaa" | lolcat
 python2 code.py
+sh logo.sh
+python pilih.py
 sh pilih.sh
 fi
-sleep
+
 
 
 
