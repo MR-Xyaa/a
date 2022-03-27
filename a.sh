@@ -41,6 +41,7 @@ then
 clear
 figlet "MR-Xyaa" | lolcat
 python2 code.py
+sh pilih.sh
 fi
 sleep
 
