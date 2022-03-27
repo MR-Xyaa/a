@@ -4,10 +4,10 @@ print("Pilih Pertanyaan :")
 print("1.Sisa Umur Saya?")
 print("2.Kurangi Umur?")
 print("3.Menambah Umur?")
-option=int(input("Pilih Option :"))
+option=int(input("Pilih option :"))
 
 
-	if option ==1:
+if option ==1:
 print("Sisa Umur Anda 3600 Hari Lagi")
 elif option==2 :
 print("Sisa Umur Anda 3.600 Hari Lagi Mau Dikurang Berapa?")
