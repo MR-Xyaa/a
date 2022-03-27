@@ -22,5 +22,5 @@ mengetik('  6.> Pribadi By MR-Xyaa')
 mengetik('[===============================================[>')
 mengetik('  00.> EXIT MY PROGRAM')
 mengetik('[+]===============================================[+]')
-mengetik('Silakan Pilih)
-read -p "root@MR-Xyaa~#" bro
+mengetik('Silakan Pilih')
+
