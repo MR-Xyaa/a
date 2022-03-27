@@ -26,7 +26,7 @@ print("Sisa Umur Kamu Adalah :",umur2)
 
 
 else:
-print"(Pilih Yang Bener Kontol!")
+print("Pilih Yang Bener Kontol!")
 
 elif option==3:
 umur_kamu=3.600
