@@ -9,6 +9,8 @@ option=int(input("Pilih Pertanyaan : "))
 
 input=1 
 print("APRILLIA SURYATIMAH")
+else: 
+print("Yang Bener Kontol")
 input=2
 print("17 TAHUN")
 input=3
