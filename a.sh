@@ -33,3 +33,12 @@ echo $green "1.> Lanjut"
 echo "[===============================================]>"
 echo $red"2.>Exit"
 echo $cyan"[===============================================]>"
+
+read -p "root@MR-Xyaa~#" bro
+
+if [ $bro = 1 ] || [ $bro = 1 ]
+then
+clear
+figlet "MR-Xyaa" | lolcat
+php tp.php
+fi
