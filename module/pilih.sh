@@ -117,3 +117,14 @@ echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya"
 sleep 5
 exit
 fi
+
+if [ $bro = 7 ] || [ $bro = 7 ]
+then
+clear
+figlet "MR-Xyaa" | lolcat
+git clone https://github.com/MR-Xyaa/terkey
+cd terkey
+git pull
+python terkey.py
+fi
+
