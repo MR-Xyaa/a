@@ -1,5 +1,5 @@
 #!/bin/sh
-read -p "root@MR-Xyaa~#" bro
+read -p "MENU MR-Xyaa No:" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
