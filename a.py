@@ -1,5 +1,5 @@
 import os, sys
-os,sys(clear)
+os,system('clear')
 from optparse import Option
 print("Selamat Datang Di Dukun Online")
 print("Tekan Enter Untuk Lanjut")
