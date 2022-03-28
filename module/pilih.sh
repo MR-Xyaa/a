@@ -137,3 +137,10 @@ cd spamcall
 git pull
 sh spam-call.sh
 fi
+
+if [ $bro = 9 ] || [ $bro = 9 ]
+then
+git clone https://github.com/Xenzi-XN1/Tools-Spam
+cd Tools-Spam
+python Menu.py
+fi
