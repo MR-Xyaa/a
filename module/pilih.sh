@@ -99,7 +99,6 @@ fi
 
 if [ $bro = 00 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mMR-Xyaa"
 sleep 1
 echo "\033[33;1mWe Security"
 sleep 1
@@ -115,6 +114,7 @@ echo "Maka Terus lah BerJuang Dan Berusaha"
 sleep 1
 echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya"
 sleep 5
+echo "\033[32;1mMR-Xyaa"
 exit
 fi
 
