@@ -20,5 +20,5 @@ t.start()
 
 #proses lama disini
 
-time.sleep(10)
+time.sleep(30)
 done = True
