@@ -1,3 +1,6 @@
+# a
+All Tools MR-Xyaa
+
 # cara install
 - pkg update
 - pkg upgrade
