@@ -7,13 +7,13 @@ done = False
 
 #animasi loading
 def animate():
-    for c in itertools.cycle(['|', '/', '-', '\\']):
+    for c in itertools.cycle(['10', '20','30', '40','50','60','70', '80','90','10%']):
         if done:
             break
-        sys.stdout.write('\rMenginstall MENU MR-Xyaa... ' + c)
+        sys.stdout.write('\rloading Tools MR-Xyaa ' + c)
         sys.stdout.flush()
         time.sleep(0.1)
-    sys.stdout.write('\rDone!     ')
+    sys.stdout.write('\rBerhasil 100')
 
 t = threading.Thread(target=animate)
 t.start()
@@ -22,5 +22,3 @@ t.start()
 
 time.sleep(10)
 done = True
-
-
