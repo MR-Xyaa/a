@@ -16,7 +16,7 @@ def main():
 		pwd = raw_input("password : ")
 
 		if pwd == password:
-			print "\n\033[1;34mHello Welcome To Tools MR-Xyaa", 
+			print "\n\033[1;34mSabar Install Tools MR-Xyaa Dulu", 
 			sys.exit()
 
 		else:
