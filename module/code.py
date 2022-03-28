@@ -16,8 +16,7 @@ def main():
 		pwd = raw_input("password : ")
 
 		if pwd == password:
-			print "\n\033[1;34mSabar Install Tools MR-Xyaa Dulu", 
-print "\n\033[1;34mTunggu 30 Detik Ya...", 
+			print "\n\033[1;34mSabar Install Tools MR-Xyaa Dulu,Tunggu 30 Detik", 
 			sys.exit()
 
 		else:
