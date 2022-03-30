@@ -7,7 +7,7 @@ def mengetik(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 
-
+print("Pengguna:", user_reply)
 mengetik('[+]===============[ MENU ]===============[+]')
 mengetik('[1]___Install Bahan By MR-Xyaa')
 mengetik('[2]___Tampilan Termux Oh-My-Zsh By MR-Xyaa')
