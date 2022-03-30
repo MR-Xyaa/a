@@ -6,6 +6,8 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
+user_reply = input("Siapa Namamu? \n")
+
 
 print("Pengguna:", user_reply)
 mengetik('[+]===============[ MENU ]===============[+]')
