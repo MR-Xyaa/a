@@ -14,7 +14,7 @@ def animate():
         sys.stdout.flush()
         time.sleep(0.1)
     sys.stdout.write('\rBerhasil 100')
-
+sys.stdout.write('\r:')
 t = threading.Thread(target=animate)
 t.start()
 
@@ -22,5 +22,5 @@ t.start()
 
 time.sleep(30)
 done = True
-print("masukan nama mu")
+
 user_reply = input("Siapa Namamu? \n")
