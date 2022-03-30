@@ -22,3 +22,5 @@ t.start()
 
 time.sleep(30)
 done = True
+
+user_reply = input("Siapa Namamu? \n")
