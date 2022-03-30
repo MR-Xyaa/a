@@ -41,8 +41,8 @@ then
 clear
 figlet "MR-Xyaa" | lolcat
 python2 code.py
-python nama.py
 python load2.py
+python nama.py
 sh logo.sh
 python pilih.py
 sh pilih.sh
