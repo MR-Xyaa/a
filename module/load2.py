@@ -13,14 +13,14 @@ def animate():
         sys.stdout.write('\rloading Tools MR-Xyaa ' + c)
         sys.stdout.flush()
         time.sleep(0.1)
-    sys.stdout.write('\rBerhasil 100')
-sys.stdout.write('\r:')
+    sys.stdout.write('\rNama=')
+
 t = threading.Thread(target=animate)
 t.start()
 
 #proses lama disini
 
-time.sleep(30)
+time.sleep(1)
 done = True
 
 user_reply = input("Siapa Namamu? \n")
