@@ -13,7 +13,7 @@ def animate():
         sys.stdout.write('\rloading Tools MR-Xyaa ' + c)
         sys.stdout.flush()
         time.sleep(0.1)
-    sys.stdout.write('\rNama=')
+    sys.stdout.write('\rSELESAI...')
 
 t = threading.Thread(target=animate)
 t.start()
@@ -22,5 +22,3 @@ t.start()
 
 time.sleep(1)
 done = True
-
-user_reply = input("Siapa Namamu? \n")
